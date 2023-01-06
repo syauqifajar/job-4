@@ -17,9 +17,9 @@ Berdasarkan hasil percobaan di atas, memiliki output yang sudah sesuai dengan pr
 
 2. ESP32 --> Adafruit IO (MQTT) --> Sensor + LED (on/off) --> Suara di Google Assistan
 
-![image](https://user-images.githubusercontent.com/121012286/210932826-b0230098-9f5c-4399-a211-2ffcff5ac8ab.png)
+![image](https://user-images.githubusercontent.com/121158751/211001070-676e5328-3a72-43f9-8275-71558ae705d9.png)
 
-![image](https://user-images.githubusercontent.com/121012286/210932844-5923e8c6-afd2-49f9-b067-0c9ff4bf52ae.png)
+![image](https://user-images.githubusercontent.com/121158751/211001202-c20bc0a9-87b8-4989-8c80-924491920fc9.png)
 
 ![image](https://user-images.githubusercontent.com/121012286/210932884-070680e2-a6f1-4e45-b3cd-b4082061a005.png)
 
